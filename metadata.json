@@ -1,6 +1,0 @@
-{
-  "name": "iTask Pro iOS",
-  "description": "Aplicación de gestión de tareas y productividad con diseño vanguardista iOS, soporte offline, biometría, sincronización de calendarios, análisis de rendimiento y exportación a CSV/PDF.",
-  "requestFramePermissions": ["notifications"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
