@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="systemBackground">#FFFFFFFF</color>
+    <color name="secondarySystemBackground">#F2F2F7</color>
+    <color name="tertiarySystemBackground">#FFFFFF</color>
+    <color name="systemGroupedBackground">#F2F2F7</color>
+    <color name="secondarySystemGroupedBackground">#FFFFFF</color>
+    <color name="label">#000000</color>
+    <color name="secondaryLabel">#3C3C4399</color>
+    <color name="tertiaryLabel">#3C3C434D</color>
+    <color name="placeholderText">#3C3C434D</color>
+    <color name="separator">#3C3C434A</color>
+    <color name="opaqueSeparator">#C6C6C8</color>
+    <color name="link">#007AFF</color>
+    <color name="systemBlue">#007AFF</color>
+    <color name="systemBlueLow">#1A007AFF</color>
+    <color name="systemGreen">#34C759</color>
+    <color name="systemIndigo">#5856D6</color>
+    <color name="systemOrange">#FF9500</color>
+    <color name="systemPink">#FF2D55</color>
+    <color name="systemPurple">#AF52DE</color>
+    <color name="systemRed">#FF3B30</color>
+    <color name="systemTeal">#5AC8FA</color>
+    <color name="systemYellow">#FFCC00</color>
+    <color name="systemGray">#8E8E93</color>
+    <color name="systemGray2">#AEAEB2</color>
+    <color name="systemGray3">#C7C7CC</color>
+    <color name="systemGray4">#D1D1D6</color>
+    <color name="systemGray5">#E5E5EA</color>
+    <color name="systemGray6">#F2F2F7</color>
+    <color name="glassOverlay">#80FFFFFF</color>
+    <color name="glassBorder">#40FFFFFF</color>
+    <color name="glassShadow">#1A000000</color>
+</resources>
